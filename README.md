@@ -6,9 +6,6 @@ Welcome to the **Drum Kit** project! This is a fun and interactive drum kit buil
 Check out the live site here:  
 👉 [https://bikesh19.github.io/Drum-Kit/](https://bikesh19.github.io/Drum-Kit/)
 
-## 📸 Screenshot
-![Drum Kit Screenshot](screenshot.png) <!-- Add a screenshot image if available -->
-
 ## 🛠️ Technologies Used
 - 🧱 HTML
 - 🎨 CSS
